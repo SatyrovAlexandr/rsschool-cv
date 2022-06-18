@@ -112,3 +112,58 @@ body
     background: rgb(251, 249, 249);
     padding: 40px;
 }
+.profile{
+    margin-bottom: 30px;
+    line-height: 30px;
+}
+.prof{
+    color: rgb(109, 109, 213);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+.pad{
+    padding: 0px 0px 0px 20px;
+    line-height: 30px;
+    font-size: x-large;
+}
+.pad1{
+    padding: 0px 0px 0px 20px;
+    line-height: 30px;
+    font-size: x-large;
+}
+.text{
+    font-size: larger;
+}
+.footer{
+    padding: 100px 0px 0px 0px;
+    margin: 80px -40px -40px -40px;
+    background-color: #46262080;
+}
+footer {
+    display: block;
+}
+.fut_nav{
+     display: flex;
+     justify-content: space-between;
+     padding-left: 50px;
+     padding-right: 50px;
+     align-items: center;
+    
+}
+.fut_cont{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+a {
+    background-color: transparent;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
